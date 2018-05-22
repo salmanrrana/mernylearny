@@ -6,5 +6,7 @@ module.exports = {
   mongoURI: 'mongodb://salman:password@ds157599.mlab.com:57599/emaily-mern-dev',
   cookieKey: 'biohdfjbhvsdkjfnbvkfhbvsizxhcv bsmfnbasdjlfbhvsdf',
   stripePublishableKey: 'pk_test_2DGaXKsac6PtA396W8Vxfacw',
-  stripeSecretKey: 'sk_test_xBT3hPSp0FVTb9eXn6iaxa1j'
+  stripeSecretKey: 'sk_test_xBT3hPSp0FVTb9eXn6iaxa1j',
+  sendGridKey:
+    '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'
 };
