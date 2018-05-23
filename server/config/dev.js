@@ -8,5 +8,6 @@ module.exports = {
   stripePublishableKey: 'pk_test_2DGaXKsac6PtA396W8Vxfacw',
   stripeSecretKey: 'sk_test_xBT3hPSp0FVTb9eXn6iaxa1j',
   sendGridKey:
-    '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'
+    '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',
+  redirectDomain: 'http://localhost:3000'
 };
